@@ -54,7 +54,7 @@ JavaからGoogle APIを呼び出すサンプルを示す。
 ```
 
 ### 2.3 ビルド & 実行
-スプレッドシートIDに任意の値を指定する。
+スプレッドシートIDに任意の値を指定する。  
 プロジェクトのディレクトリへ移動し、`mvn package`を実行してビルドする。  
 配下の`targetディレクトリ`にjarファイルが生成されていることを確認する。  
 コマンド`java -jar java2gas-sample-0.0.1-SNAPSHOT-jar-with-dependencies.jar`にて実行。  
