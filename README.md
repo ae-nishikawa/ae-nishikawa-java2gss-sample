@@ -61,3 +61,8 @@ JavaからGoogle APIを呼び出すサンプルを示す。
 初回はブラウザでスコープ許可が必要。  
 更新時刻が変更されていることを確認する。  
 また、指定したスプレッドシートの更新時刻が更新されていることを確認する。
+  
+  
+# おまけ
+その他API(gmail、GoogleAppsScritp)のサンプルは[コチラ](https://github.com/ae-nishikawa/java2googleApi-sample)  
+多少構造が変わっているので注意。
